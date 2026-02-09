@@ -4,5 +4,3 @@ llama-index-vector-stores-astra-db
 llama-index-llms-gemini
 streamlit
 python-dotenv
-fpdf
-python-docx
